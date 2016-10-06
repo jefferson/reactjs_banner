@@ -8,6 +8,6 @@ A simple banner create with reactjs
 - Jquery
 
 # todo
-- better readmer
+- better readme
 - test components
 - link for dependencies
